@@ -1,10 +1,7 @@
 #include<stdio.h>
 /**
  * main - prints the size of data types
- * Return : 0 if exited properly, non-zero otherwise
- */
-/**
- * main - Use of command printf
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
