@@ -1,9 +1,8 @@
 #include<stdio.h>
 /**
- * main - prints the phrase 'with proper grammar,
- * but the outcome is a piece of art,
+ * main - prints the phrase with printf()
  *
- * Return : Always 0 (success)
+ * Return : Always 0 (Success)
  */
 int main(void)
 {
