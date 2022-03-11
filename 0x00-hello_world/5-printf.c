@@ -1,8 +1,9 @@
 #include<stdio.h>
 /**
  * main - prints the phrase 'with proper grammar,
- * but the outcome is a piece of art,'
- * Return : 0 if properly exited, non-zero otherwise
+ * but the outcome is a piece of art,
+ *
+ * Return : Always 0 (success)
  */
 int main(void)
 {
