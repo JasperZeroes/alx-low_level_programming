@@ -1,4 +1,4 @@
-#Preprocessing, Compilation, Assembling and Linkage
+# Preprocessing, Compilation, Assembling and Linkage
 
 ## Description
 Introduction to C compiler and gcc
