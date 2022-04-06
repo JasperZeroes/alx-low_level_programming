@@ -7,7 +7,7 @@ Introduction to Dynamic Memory Allocation in C
 Files| Description
 ----------- | -----------
 [.gitignore](./gitignore) | to ignore pushing unnecessary files to the directory
-
+--------------------------|----------------------------------------------------
 [0-create_array.c](./0-create_array.c) | is a function that creates an array of chars, and initializes it with a specific char
 
 [1-strdup.c](./1-strdup.c) | is a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
