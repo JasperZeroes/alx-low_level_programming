@@ -2,6 +2,7 @@
 
 ## Description
 Working with Structures
+
 Documentation: structures
 
 
