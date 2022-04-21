@@ -7,7 +7,6 @@ How to build and use linked lists
 ### Table of Content
 Files | Description
 ----------- | -----------
-[file_name](./file_name) | Description of the file
 [.gitignore](./gitignore) | Ignore pushing compiled codes and test files.
 [lists.h](./lists.h) | Header File.
 [0-print_list.c](./0-print_list.c) | Function that prints all the elements of a list_t list. Prototype: size_t print_list(const list_t *h);
