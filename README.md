@@ -3,7 +3,9 @@
 ## Description
 
 * ALX-curriculum for low-level programming. These projects are meant to help us learn basic concepts of programming in C as a low level programming language in order to have the capacity to learn any other language quickly.
-
+____
+# Programming in C
+_____
 
 ### Table of Content 📂
 
